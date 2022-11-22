@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+     <trans-unit id="headerInicio" datatype="html">
+        <source> Inicio </source>
+        <target> Começar </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">27,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerSoluciones" datatype="html">
+        <source> Soluciones </source>
+        <target> Soluções </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerServicios" datatype="html">
+        <source> Servicios </source>
+        <target> Serviços </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">37,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerClientes" datatype="html">
+        <source> Clientes </source>
+        <target> Clientes </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">42,44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerNosotros" datatype="html">
+        <source> Nosotros </source>
+        <target> Nós </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">47,49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerContactanos" datatype="html">
+        <source> Contáctanos </source>
+        <target> Contate-Nos </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerContactanosT" datatype="html">
+        <source> Contáctanos </source>
+        <target> Contate-Nos </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">74,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerLanguage" datatype="html">
+        <source> Idioma </source>
+        <target> Língua </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">59</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerSpanish" datatype="html">
+        <source> Español </source>
+        <target> Espanhol </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerEnglish" datatype="html">
+        <source> Ingles </source>
+        <target> Inglês </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerPortuguese" datatype="html">
+        <source> Portugués </source>
+        <target> Português </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="headerImgLogo" datatype="html">
+        <source>assets/img/logo-quantum/logo-quantum-es.png</source>
+        <target>assets/img/logo-quantum/logo-quantum-pt.png</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/header/header.component.html</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

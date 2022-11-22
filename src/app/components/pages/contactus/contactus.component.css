@@ -1,0 +1,388 @@
+#contactos .section-title {
+  padding-top: 22px;
+}
+
+#contactos {
+  background: #f0f0f0;
+  color: #304352;
+}
+
+/*---------------------------------------
+   Responsive Mobile         
+-----------------------------------------*/
+@media (max-width: 980px) {
+  #docs .team-thumb {
+    margin-top: 32px;
+  }
+}
+@media (max-width: 767px) {
+  #home, .overlay {
+    height: 100vh;
+  }
+
+  #docs .about-thumb {
+    padding: 32px;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+
+  #docs .col-md-3 img {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+}
+
+@media (max-width: 650px) {
+  h1 {
+    font-size: 1.6rem;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  img {
+    width: 100%;
+  }
+}
+.rounded-img-w {
+  width: 90px;
+  height: auto;
+}
+.ml-1 {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+
+.mg-1 {
+  margin-top: 20px;
+}
+
+/* ------------- */
+/* Card contacto */
+/* ------------- */
+.light {
+  background: #f3f5f7;
+}
+
+a, a:hover {
+  text-decoration: none;
+  transition: color 0.3s ease-in-out;
+}
+.postcard {
+  flex-wrap: wrap;
+  display: flex;
+  border-radius: 5px;
+  margin: 0 0 2rem 0;
+  overflow: hidden;
+  position: relative;
+}
+
+  .postcard.light {
+    background-color: #FFF;
+  }
+
+  .postcard a {
+    color: inherit;
+  }
+
+  .postcard h1, .postcard .h1 {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+
+  .postcard .small {
+    font-size: 80%;
+  }
+
+  .postcard .postcard__title {
+    font-size: 1.75rem;
+  }
+
+  .postcard .postcard__img {
+    max-height: 180px;
+    width: 100%;
+    object-fit: cover;
+    position: relative;
+  }
+
+  .postcard .postcard__img_link {
+    display: contents;
+  }
+
+  .postcard .postcard__bar {
+    width: 50px;
+    height: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: #424242;
+    transition: width 0.2s ease;
+  }
+
+  .postcard .postcard__text {
+    padding: 1.5rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .postcard .postcard__preview-txt {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: justify;
+    height: 100%;
+  }
+
+  .postcard .postcard__tagbox {
+    display: flex;
+    flex-flow: row wrap;
+    font-size: 14px;
+    margin: 20px 0 0 0;
+    padding: 0;
+    justify-content: center;
+  }
+
+    .postcard .postcard__tagbox .tag__item {
+      display: inline-block;
+      background: rgba(83, 83, 83, 0.4);
+      border-radius: 3px;
+      padding: 2.5px 10px;
+      margin: 0 5px 5px 0;
+      cursor: default;
+      user-select: none;
+      transition: background-color 0.3s;
+    }
+
+      .postcard .postcard__tagbox .tag__item:hover {
+        background: rgba(83, 83, 83, 0.8);
+      }
+
+  .postcard:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 1;
+    border-radius: 10px;
+  }
+
+  .postcard:hover .postcard__bar {
+    width: 100px;
+  }
+
+@media screen and (min-width: 769px) {
+  .postcard {
+    flex-wrap: inherit;
+  }
+
+    .postcard .postcard__title {
+      font-size: 2rem;
+    }
+
+    .postcard .postcard__tagbox {
+      justify-content: start;
+    }
+
+  .img-r {
+    display: none !important;
+  }
+
+  .img-mobile-image {
+    display: block !important;
+  }
+
+  .postcard .postcard__img {
+    max-width: 300px;
+    max-height: 100%;
+    transition: transform 0.3s ease;
+  }
+
+  .postcard .postcard__text {
+    padding: 3rem;
+    width: 100%;
+  }
+
+  .postcard .media.postcard__text:before {
+    content: "";
+    position: absolute;
+    display: block;
+    background: #18151f;
+    top: -20%;
+    height: 130%;
+    width: 55px;
+  }
+
+  .postcard:hover .postcard__img {
+    transform: scale(1.1);
+  }
+
+  .postcard:nth-child(2n+1) {
+    flex-direction: row;
+  }
+
+  .postcard:nth-child(2n+0) {
+    flex-direction: row-reverse;
+  }
+
+  .postcard:nth-child(2n+1) .postcard__text::before {
+    left: -12px !important;
+    transform: rotate(4deg);
+  }
+
+  .postcard:nth-child(2n+0) .postcard__text::before {
+    right: -12px !important;
+    transform: rotate(-4deg);
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .postcard__text {
+    padding: 2rem 3.5rem;
+  }
+
+  .postcard.light .postcard__text:before {
+    background: #e1e5ea;
+  }
+}
+
+.postcard .postcard__tagbox .yellow.play:hover {
+  background: #bdbb49;
+  color: black;
+}
+
+.yellow .postcard__title:hover {
+  color: #bdbb49;
+}
+
+.yellow .postcard__bar {
+  background-color: #ff974f;
+}
+
+.yellow::before {
+  background-color: #FFF;
+}
+
+/* -------------------- */
+/* Estilos de contactos */
+/* -------------------- */
+#docs h4 {
+  color: #18151f;
+}
+
+#docs .postcard__subtitle {
+  color: #18151f;
+}
+
+#docs .postcard__preview-txt {
+  color: #18151f;
+}
+
+#contactos h3.telegram {
+  color: #51BAE9;
+}
+
+#contactos .postcard__bar.telegram {
+  background-color: #51BAE9;
+}
+
+#contactos a.btn.telegram {
+  background-color: #51BAE9;
+}
+
+  #contactos a.btn.telegram:hover {
+    background-color: #1babee;
+    color: #FFF;
+  }
+
+.whatsapp-b {
+  color: #1CBEA6 !important;
+}
+
+#contactos h3.whatsapp {
+  color: #1CBEA6;
+}
+
+#contactos .postcard__bar.whatsapp {
+  background-color: #1CBEA6;
+}
+
+#contactos a.btn.whatsapp {
+  background-color: #1CBEA6;
+}
+
+  #contactos a.btn.whatsapp:hover {
+    background-color: #1CBEA6;
+    color: #FFF;
+  }
+
+#contactos h3.email {
+  color: #3889CA;
+}
+
+#contactos .postcard__bar.email {
+  background-color: #3889CA;
+}
+
+#contactos a.btn.email {
+  background-color: #3889CA;
+}
+
+  #contactos a.btn.email:hover {
+    background-color: #3889CA;
+    color: #FFF;
+  }
+
+#contactos .postcard__subtitle {
+  color: #18151f;
+}
+
+#contactos .postcard__preview-txt {
+  color: #18151f;
+}
+
+.blue-reverse {
+  flex-direction: row-reverse !important;
+}
+
+@media screen and (max-width: 1024px) {
+  footer h4 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  .preg-c {
+    text-align: center;
+  }
+}
+
+.owl-prev, .owl-next {
+  background: #ff974f;
+  border: 1px #ff974f solid !important;
+  opacity: 1 !important;
+}
+
+.cursor-a {
+  cursor: pointer !important;
+}
+
+  .cursor-a:hover {
+    background-color: #616060;
+    opacity: .1;
+    transition: ease .1s;
+    width: 100%;
+    height: 100%;
+  }
+
+.img-mobile-image {
+  display: none;
+}
+
+.text-dark-c {
+  color: #18151f !important;
+  text-align: center !important;
+}

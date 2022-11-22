@@ -1,0 +1,95 @@
+<section class="client-section">
+	<div class="container">
+		<div class="client-slider section-gap-custom line-top">
+			<div class="row align-items-center justify-content-between" id="clientSlider">
+				<div *ngFor="let image of arrayOfImages" class="col">
+					<a class="client-img d-block text-center">
+						<img height="100px" [src]='"assets/img/tecnologias/" + image' alt="">
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<footer>
+		<div class="container">
+			<div class="footer-widget">
+				<div class="row">
+					<div class="col-lg-3 col-sm-6 order-1 text-center">
+						<div class="widget site-info-widget">
+							<div class="footer-logo">
+								<img src="assets/img/logo-quantum/logo-quantum-es.png" i18n-src="@@footerLogo" width="196px" height="146px" alt="Quantum">
+							</div>
+							<p i18n="@@footerInnovacia3nAplicada">Innovación aplicada</p>
+							<ul class="social-links">
+								<li><a href="javascript:void(0)"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="javascript:void(0)"><i class="fab fa-twitter"></i></a></li>
+								<li><a href="javascript:void(0)"><i class="fab fa-instagram"></i></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-4 col-sm-6 order-3 text-center">
+						<div class="widget nav-widget">
+							<h4 i18n="@@footerCompaaia" class="widget-title">Compañia</h4>
+							<ul>
+								<li><a routerLink='/nosotros' i18n="@@footerNuestraHistoria">Nuestra Historia</a></li>
+								<li><a routerLink='/soluciones' i18n="@@footerSoluciones">Soluciones</a></li>
+								<li><a routerLink="/servicios" i18n="@@footerServicios">Servicios</a></li>
+								<li><a routerLink="/contactanos" i18n="@@footerContactanos">Contáctanos</a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-lg-5 order-lg-4 col-sm-12 order-5">
+						<div class="row justify-content-center">
+						  <div class="col-lg-12 col-sm-12 text-center">
+							<div class="widget contact-widget">
+							  <h4 class="widget-title" i18n="@@footerContactanosG">Contáctanos</h4>
+							  <p i18n="@@footerEsperamosTuProyectoConAns">Esperamos tu proyecto con ansías</p>
+							  <ul class="contact-infos">
+								<li>
+								  <a href="tel:+59167898117">
+									<i class="far fa-phone"></i>
+									+591 67898117
+								  </a>
+								</li>
+								<li>
+								  <a href="mailto:info@qtm.bo">
+									<i class="far fa-envelope-open"></i>
+									info@qtm.bo
+								  </a>
+								</li>
+								<li> 
+									<i class="far fa-map-marker-alt"></i>
+									<span i18n="@@direccion1">
+										Santa Cruz:Calle 6 # 128, B. Petrolero Sur
+									</span>
+								</li>
+								<li> 
+									<i class="far fa-map-marker-alt"></i>
+									<span i18n="@@direccion2">
+										La Paz: Calle 15B # 73, Irpavi
+									</span>
+								</li>
+							  </ul>
+							</div>
+						  </div>
+						</div>
+					  </div>
+
+				</div>
+			</div>
+			<div class="footer-copyright">
+				<p class="copyright-text">
+					<span>Quantum<a href="javascript:void(0)"></a> S.R.L</span>
+					<span></span>
+					<span i18n="@@footerDerechosReservadosQuantu">Derechos reservados - Quantum</span>
+				</p>
+
+				<a href="javascript:void(0)" class="back-to-top"><i class="far fa-angle-up"></i></a>
+			</div>
+		</div>
+
+		<!-- Lines -->
+		<img src="assets/img/lines/01.png" alt="line-shape" class="line-one">
+		<img src="assets/img/lines/02.png" alt="line-shape" class="line-two">
+	</footer>

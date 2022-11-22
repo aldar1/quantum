@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="nosotrosNosotros" datatype="html">
+        <source> Nosotros </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosNosotrosP" datatype="html">
+        <source> Nosotros </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosQuantumEsUnaEmpresaEnfocadaEnE" datatype="html">
+        <source> Quantum es una empresa enfocada en el rubro de la Tecnología de la Información y Comunicación (TICs), que ofrece servicios especializados y de consultoría de valor al cliente por más de 10 años a nivel nacional, integrando soluciones de alta calidad tanto en el sector público como privado. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSomosUnaEmpresaQueOfreceSoluci" datatype="html">
+        <source> Somos una empresa que ofrece soluciones innovadoras estableciendo alianzas estratégicas duraderas potenciando el crecimiento de nuestros clientes acorde a la evolución tecnológica emergente a nivel mundial. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosContactanos" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">59,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosNuestraMisia3nYVisia3n" datatype="html">
+        <source> Nuestra misión y visión </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">73,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosNuestrosValores" datatype="html">
+        <source> Nuestros valores </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">76,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosHistoriaDeQuantum" datatype="html">
+        <source> Historia de Quantum </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">79,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosMisia3n" datatype="html">
+        <source> Misión </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">94,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSomosUnaEmpresaQueOfreceSoluciR" datatype="html">
+        <source> Somos una empresa que ofrece soluciones innovadoras estableciendo alianzas estratégicas duraderas potenciando el crecimiento de nuestros clientes acorde a la evolución tecnológica emergente a nivel mundial. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">97,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosVisia3n" datatype="html">
+        <source> Visión </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">103,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosApoyarANuestrosClientesEnLaPro" datatype="html">
+        <source> Apoyar a nuestros clientes en la provisión de soluciones tecnológicas vanguardistas que generen de valor para sus organizaciones logrando su credibilidad y confianza. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">106,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosNuestrosValoresQ" datatype="html">
+        <source> Nuestros valores </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">120,122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosNuestraHistoria" datatype="html">
+        <source> Nuestra Historia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">175,177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCommitEsUnaEmpresaEnfocadaEnEl" datatype="html">
+        <source> CommIT es una empresa enfocada en el rubro de la Tecnología de la Información y Comunicación (TICs), que ofrece servicios especializados y de consultoría de valor al cliente por más de 10 años a nivel nacional, integrando soluciones de alta calidad tanto en el sector público como privado. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">178,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosMahatmaGandhi" datatype="html">
+        <source> Mahatma Gandhi </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">260,262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosWinstonChurchill" datatype="html">
+        <source> Winston Churchill </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">285,287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinstein" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">310,312</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesDarwin" datatype="html">
+        <source> Charles Darwin </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">335,337</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesKettering" datatype="html">
+        <source> Charles Kettering </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">360,362</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosHerbertSimon" datatype="html">
+        <source> Herbert Simon </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">385,387</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosElonMusk" datatype="html">
+        <source> Elon Musk </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">410,412</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvalds" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">435,437</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsD" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">460,462</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsA" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">485,487</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsO" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">510,512</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsH" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">535,537</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsE" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">560,562</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsAJ" datatype="html">
+        <source> Linus Torvalds </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">585,587</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosElonMuskC" datatype="html">
+        <source> Elon Musk </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">610,612</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobs" datatype="html">
+        <source> Steve Jobs </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">635,637</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesDarwinQ" datatype="html">
+        <source> Charles Darwin </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">660,662</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsM" datatype="html">
+        <source> Steve Jobs </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">685,687</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsE" datatype="html">
+        <source> Steve Jobs </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">710,712</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsB" datatype="html">
+        <source> Steve Jobs </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">735,737</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinA" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">760,762</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinF" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">785,787</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinN" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">810,812</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinO" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">835,837</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinNG" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">860,862</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinI" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">885,887</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinB" datatype="html">
+        <source> Albert Einstein </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">910,912</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

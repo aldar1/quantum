@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+     <trans-unit id="portfolioClientes" datatype="html">
+        <source> Clientes </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioTodos" datatype="html">
+        <source> Todos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioFinancieras" datatype="html">
+        <source> Financieras </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">31,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioGubernamentales" datatype="html">
+        <source> Gubernamentales </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">34,36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioOng" datatype="html">
+        <source> ONG </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">37,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioIndustriales" datatype="html">
+        <source> Industriales </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">40,42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioPetroleras" datatype="html">
+        <source> Petroleras </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">43,45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioServicios" datatype="html">
+        <source> Servicios </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">46,48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioTelecomunicaciones" datatype="html">
+        <source> Telecomunicaciones </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">49,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioAsoban" datatype="html">
+        <source> Asoban </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">63,65</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioAsociacia3nDeBancosPrivad" datatype="html">
+        <source> Asociación de Bancos Privados de Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">66,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanos" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">70,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAns" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">74,76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBcb" datatype="html">
+        <source> BCB </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">91,93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBancoCentralDeBolivia" datatype="html">
+        <source> Banco Central de Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">94,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosK" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">98,100</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsR" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">102,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBancoGanadero" datatype="html">
+        <source> Banco Ganadero </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">119,121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosV" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">123,125</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsF" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">127,129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBrinks" datatype="html">
+        <source> BRINKS </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">144,146</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBrinksBoliviaS.a." datatype="html">
+        <source> Brinks Bolivia S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">147,149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosM" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">151,153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsW" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">155,157</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCooperativaSanMartanDePor" datatype="html">
+        <source> Cooperativa San Martín de Porres </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">172,174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosH" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">176,178</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsFX" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">180,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEdv" datatype="html">
+        <source> EDV </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">197,199</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEntidadDeDepositoDeValore" datatype="html">
+        <source> Entidad de Deposito de Valores </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">200,202</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosB" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">204,206</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsG" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">208,210</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCooperativaFatimaLtda." datatype="html">
+        <source> Cooperativa Fatima Ltda. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">225,227</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosVQ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">229,231</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsY" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">233,235</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCooperativaJesaosNazareno" datatype="html">
+        <source> Cooperativa Jesús Nazareno </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">250,252</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosS" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">254,256</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsC" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">258,260</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioAduanaNacional" datatype="html">
+        <source> Aduana Nacional </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">275,277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosI" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">279,281</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsI" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">283,285</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEndeCoraniS.a." datatype="html">
+        <source> ENDE Corani S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">300,302</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosC" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">304,306</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsFA" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">308,310</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioComibol" datatype="html">
+        <source> Comibol </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">325,327</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCorporacia3nMineraDeBoliv" datatype="html">
+        <source> Corporación Minera de Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">328,330</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosQ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">332,334</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsIY" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">336,338</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEndeCorporacian" datatype="html">
+        <source> ENDE CORPORACIÓN </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">353,355</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEmpresaNacionalDeElectric" datatype="html">
+        <source> Empresa Nacional de Electricidad </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">356,358</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosZ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">360,362</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsV" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">364,366</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioTde" datatype="html">
+        <source> TDE </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">381,383</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioTransportadoraDeElectrici" datatype="html">
+        <source> Transportadora de Electricidad S.A </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">384,386</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosCF" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">388,390</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsYJ" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">392,394</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioRuat-Bolivia" datatype="html">
+        <source> RUAT - Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">409,411</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioRegistroUnicoParaLaAdmini" datatype="html">
+        <source> Registro Unico para la Administracion Tributaria Municipal </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">412,414</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosW" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">416,418</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsVZ" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">420,422</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCrecerIfd" datatype="html">
+        <source> CRECER IFD </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">437,439</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCraditoParaTuSalud-Crecer" datatype="html">
+        <source> Crédito para tu salud - Crecer IFD </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">440,442</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosD" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">444,446</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsA" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">448,450</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioProsalud" datatype="html">
+        <source> PROSALUD </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">465,467</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosF" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">469,471</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsH" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">473,475</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioFriccion" datatype="html">
+        <source> FRICCION </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">490,492</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosA" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">494,496</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsYD" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">498,500</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioGuabira" datatype="html">
+        <source> GUABIRA </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">515,517</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioAzaocarGuabira" datatype="html">
+        <source> Azúcar Guabirá </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">518,520</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosZB" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">522,524</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsD" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">526,528</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioUnagro" datatype="html">
+        <source> UNAGRO </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">543,545</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioPrimeraEmpresaAgroenergat" datatype="html">
+        <source> Primera empresa Agroenergética de Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">546,548</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosBB" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">550,552</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsX" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">554,556</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioMonterreySrl" datatype="html">
+        <source> Monterrey Srl </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">571,573</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioMonterrey-SolucionesEnAce" datatype="html">
+        <source> Monterrey - Soluciones en Acero </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">574,576</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosO" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">578,580</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsRP" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">582,584</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioSofia" datatype="html">
+        <source> Sofia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">599,601</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioSofia-ProductosAlimentici" datatype="html">
+        <source> Sofia - Productos alimenticios </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">602,604</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosQU" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">606,608</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsO" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">610,612</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioPetrobras" datatype="html">
+        <source> Petrobras </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">627,629</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioPetra3leoBrasileiroS.a." datatype="html">
+        <source> Petróleo Brasileiro S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">630,632</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosG" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">634,636</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsVV" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">638,640</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioRepsol,S.A." datatype="html">
+        <source> Repsol, S. A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">655,657</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosX" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">659,661</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsU" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">663,665</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYpfb" datatype="html">
+        <source> YPFB </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">680,682</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYacimientosPetrolaferosFi" datatype="html">
+        <source> Yacimientos Petrolíferos Fiscales Bolivianos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">683,685</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosDM" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">687,689</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsJ" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">691,693</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYpfbTransporte" datatype="html">
+        <source> YPFB Transporte </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">708,710</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosN" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">712,714</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsJS" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">716,718</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYpfbRefinacia3n" datatype="html">
+        <source> YPFB Refinación </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">733,735</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosFH" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">737,739</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsXB" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">741,743</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYpfbAndinaS.a." datatype="html">
+        <source> YPFB ANDINA S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">758,760</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosXQ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">762,764</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsYK" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">766,768</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioYpfbChacoS.a." datatype="html">
+        <source> YPFB Chaco S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">783,785</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosGA" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">787,789</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsB" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">791,793</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioGrupoLafuente" datatype="html">
+        <source> Grupo Lafuente </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">808,810</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioLafuenteGrupoEmpresarial" datatype="html">
+        <source> Lafuente Grupo Empresarial </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">811,813</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosZQ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">815,817</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsBK" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">819,821</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCreR.l." datatype="html">
+        <source> CRE R.L. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">836,838</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCooperativaRuralDeElectri" datatype="html">
+        <source> Cooperativa Rural de Electrificación </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">839,841</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosGX" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">843,845</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsL" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">847,849</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBcbM" datatype="html">
+        <source> BCB </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">864,866</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioBancoCentralDeBoliviaG" datatype="html">
+        <source> Banco Central de Bolivia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">867,869</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosAI" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">871,873</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsM" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">875,877</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioHillerS.a." datatype="html">
+        <source> Hiller S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">892,894</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioHillerS.a.Divisia3nSistem" datatype="html">
+        <source> Hiller S.A. División Sistemas </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">895,897</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosR" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">899,901</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsS" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">903,905</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioDelapaz" datatype="html">
+        <source> DELAPAZ </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">920,922</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioLaDistribuidoraDeElectric" datatype="html">
+        <source> La Distribuidora de Electricidad La Paz S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">923,925</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosFU" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">927,929</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsAZ" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">931,933</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioElfec" datatype="html">
+        <source> ELFEC </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">948,950</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEmpresaDeLuzYFuerzaElactr" datatype="html">
+        <source> Empresa de Luz y Fuerza Eléctrica Cochabamba </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">951,953</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosWE" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">955,957</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsSW" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">959,961</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioSaguapac" datatype="html">
+        <source> SAGUAPAC </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">976,978</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosZF" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">980,982</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsZ" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">984,986</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEntelS.a." datatype="html">
+        <source> ENTEL S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1001,1003</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosE" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1005,1007</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsWG" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1009,1011</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCotas" datatype="html">
+        <source> COTAS </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1026,1028</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioCooperativaDeTelecomunica" datatype="html">
+        <source> Cooperativa de Telecomunicaciones de Santa Cruz </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1029,1031</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosGG" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1033,1035</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsT" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1037,1039</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioTigo" datatype="html">
+        <source> Tigo </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1054,1056</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosQE" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1058,1060</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsYX" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1062,1064</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioViva" datatype="html">
+        <source> Viva </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1079,1081</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioLaEmpresaDeTelecomunicaci" datatype="html">
+        <source> La Empresa de Telecomunicaciones Nuevatel PCS de Bolivia S.A. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1082,1084</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioContactanosFQ" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1086,1088</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioEsperamosTuProyectoConAnsE" datatype="html">
+        <source> Esperamos tu proyecto con ansias </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1090,1092</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioAqueTeParece?" datatype="html">
+        <source> ¿Que te parece? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1112,1114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioVolvamosRealidadTuProyect" datatype="html">
+        <source> Volvamos realidad tu proyecto. Escribenos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1115,1117</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="portfolioComencemos" datatype="html">
+        <source> Comencemos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/portfolio/portfolio.component.html</context>
+          <context context-type="linenumber">1119,1121</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

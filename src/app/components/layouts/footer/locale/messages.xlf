@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+     <trans-unit id="footerInnovacia3nAplicada" datatype="html">
+        <source> Innovación aplicada </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">238,240</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerCompaaia" datatype="html">
+        <source> Compañia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">265,267</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerNuestraHistoria" datatype="html">
+        <source> Nuestra Historia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">270,272</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerSoluciones" datatype="html">
+        <source> Soluciones </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">275,277</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerServicios" datatype="html">
+        <source> Servicios </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">280,282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerContactanos" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">285,287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerContactanosG" datatype="html">
+        <source> Contáctanos </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">296,298</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerEsperamosTuProyectoConAns" datatype="html">
+        <source> Esperamos tu proyecto con ansías </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">299,301</context>
+        </context-group>
+      </trans-unit>
+        <trans-unit id="direccion1" datatype="html">
+        <source>Santa Cruz: Calle 6 # 128, B. Petrolero Sur</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">317,321</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="direccion2" datatype="html">
+        <source>La Paz: Calle 15B # 73, Irpavi</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">322,326</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerDerechosReservadosQuantu" datatype="html">
+        <source> Derechos reservados - Quantum </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">86</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="footerLogo" datatype="html">
+        <source>assets/img/logo-quantum/logo-quantum-es.png</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/layouts/footer/footer.component.html</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

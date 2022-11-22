@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="tituloPaginaNosotros" datatype="html">
+        <source>Nosotros</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tituloPaginaSoluciones" datatype="html">
+        <source>Soluciones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tituloSeccionInicioSoluciones" datatype="html">
+        <source>Nuestras Soluciones</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tituloSeccionContenidoSoluciones" datatype="html">
+        <source>Tenemos las mejores soluciones <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> para innovar tu empresa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow1Col1" datatype="html">
+        <source>La inteligencia artificial y el aprendizaje automático representan una evolución importante en la informática y el procesamiento de datos que está transformando rápidamente una amplia gama de industrias. Quantum provee de herramientas y metodologías para gestionar la gran cantidad de datos que se recopilan, extraerlos para obtener información y actuar sobre esas ideas cuando se descubren</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow1Col2" datatype="html">
+        <source>Es una herramienta estratégica para abordar los datos como un activo que genera beneficios enormes, en Quantum te ayudamos a implementar una plataforma tecnológica que integre y automatice la capa de datos, con diferentes fuentes de datos y en múltiples formatos.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow1Col3" datatype="html">
+        <source>Variedad de servicios en Cloud Computing, como ser consolidación de servidores mediante la virtualización, implementación de cloud privada mediante OpenStack, contenedores, kubernetes, storage definido por software, infraestructura definida por software, implementación de Data Center (Servidores, Almacenamiento y Red) </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">56,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow2Col1" datatype="html">
+        <source>Quantum te ayuda a aplicar la lógica empresarial de manera automática, lo que hace que la infraestructura general sea más receptiva mediante la automatización de procesos, el procesamiento de eventos y el análisis.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow2Col2" datatype="html">
+        <source>La mayoría de las organizaciones de hoy son sumamente dependientes de la tecnología de la información, pero queda claro que esta tecnología puede verse afectada por una amplia gama de incidentes potencialmente desastrosos. Éstos van desde cortes en el suministro de energía provocados por tormentas hasta la pérdida de datos causada por equivocaciones de los empleados o por criminales informáticos (Disaster Recovery, Site Recovery); Quantum SRL te da la solución.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divContenidoSolucionesRow2Col3" datatype="html">
+        <source>La aplicación de la automatización moderna a su entorno de aplicaciones empresariales ayuda a su empresa a servir mejor a sus clientes, para que pueda tener éxito en la economía digital. Quantum te ayuda a generar un entorno empresarial más automatizado y eficiente.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divVideoSoluciones" datatype="html">
+        <source> Construimos soluciones a la medida de tus necesidades </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">119,121</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divCallToSolucionesSpan" datatype="html">
+        <source>¿Que te parece?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divCallToSolucionesTitulo" datatype="html">
+        <source>Volvamos realidad tu proyecto. Escríbenos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="divCallToSolucionesLink" datatype="html">
+        <source>Comencémos</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/soluciones/soluciones.component.html</context>
+          <context context-type="linenumber">141</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

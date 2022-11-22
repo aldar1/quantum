@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+     <trans-unit id="homepageCloudComputing" datatype="html">
+        <source> cloud computing </source>
+        <target> cloud computing </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">11,13</context>
+        </context-group>
+      </trans-unit>
+       <trans-unit id="tuinformacion" datatype="html">
+        <source> Tu Información Donde sea Cuando sea </source>
+        <target> Your information wherever whenever </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">15,17,19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageEmpecemos" datatype="html">
+        <source> Empecemos </source>
+        <target> Let us begin </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">23,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageNuestrosServicios" datatype="html">
+        <source> Nuestros Servicios </source>
+        <target> Our services </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">28,30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageSoftwareAMedida" datatype="html">
+        <source> software a medida </source>
+        <target> custom software </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">53,55</context>
+        </context-group>
+      </trans-unit>
+       <trans-unit id="solucionesamedida" datatype="html">
+        <source> Soluciones A medida de Tus necesidades </source>
+        <target> Solutions tailored to your needs </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">57,59,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageEmpecemosW" datatype="html">
+        <source> Empecemos </source>
+        <target> Let us begin </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">65,67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageNuestrosServiciosN" datatype="html">
+        <source> Nuestros Servicios </source>
+        <target> Our services </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">70,72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageGestia3nDeServicios" datatype="html">
+        <source> gestión de servicios </source>
+        <target> Service Management </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">96,98</context>
+        </context-group>
+      </trans-unit>
+       <trans-unit id="organizamostusservicios" datatype="html">
+        <source> Organizamos tus servicios de manera optima y eficiente </source>
+        <target> We organize your services optimally and efficiently </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">100,102,104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageEmpecemosWG" datatype="html">
+        <source> Empecemos </source>
+        <target> Let us begin </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">108,110</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageNuestrosServiciosE" datatype="html">
+        <source> Nuestros Servicios </source>
+        <target> Our services </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">113,115</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageConocanos" datatype="html">
+        <source> Conocénos </source>
+        <target> Know us </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">150,152</context>
+        </context-group>
+      </trans-unit>
+        <trans-unit id="servicioprofesionales" datatype="html">
+        <source> Servicio Profesionales de la Tecnologia de la Información y Comunicación </source>
+        <target> Information and Communication Technology Professional Service </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">154,156</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageQuantumEsUnaEmpresaEnfoca" datatype="html">
+        <source> Quantum es una empresa enfocada en el rubro de la Tecnología de la Información y Comunicación (TICs), que ofrece servicios especializados y de consultoría de valor al cliente por más de 10 años a nivel nacional, integrando soluciones de alta calidad tanto en el sector público como privado. </source>
+        <target> Quantum is a company focused on the field of Information and Communication Technology (ICTs), which offers specialized services and consulting of value to the client for more than 10 years at a national level, integrating high quality solutions both in the public sector as private. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">159,163</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageSomosUnaEmpresaQueOfreceS" datatype="html">
+        <source> Somos una empresa que ofrece soluciones innovadoras estableciendo alianzas estratégicas duraderas potenciando el crecimiento de nuestros clientes acorde a la evolución tecnológica emergente a nivel mundial </source>
+        <target> We are a company that offers innovative solutions establishing lasting strategic alliances, promoting the growth of our clients according to the emerging technological evolution worldwide. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">164,167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="añosdeexperiencia" datatype="html">
+        <source> 10 años de experiencia </source>
+        <target> 10 years of experience </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">172</context>
+        </context-group>
+      </trans-unit>
+          <trans-unit id="atencion" datatype="html">
+        <source> Atención personalizada </source>
+        <target> Personalized attention </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageVerMas" datatype="html">
+        <source> Ver más </source>
+        <target> see more </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">180,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageNuestrosServiciosI" datatype="html">
+        <source> Nuestros Servicios </source>
+        <target> Our services </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">194,196</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tenemoslosmejoresservicios" datatype="html">
+        <source> Tenemos los mejores servicios para innovar tu empresa </source>
+         <target> We have the best services to innovate your company </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">198,200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageSolucionesDeSoftwareAMedi" datatype="html">
+        <source> Soluciones de Software a Medida </source>
+        <target> Custom Software Solutions </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">212,214</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageDesarrollamosSoftwareAPed" datatype="html">
+        <source> Desarrollamos Software a pedido del cliente, con una amplia gamma de conocimientos por parte del backend, como ser microservicios con uso de Java </source>
+        <target> We develop Software at the request of the client, with a wide range of knowledge on the part of the backend, such as microservices with the use of Java </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">216,218</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageGestionDeServicios" datatype="html">
+        <source> Gestion de Servicios </source>
+        <target> Service Management </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">232,234</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageComoDesarrolladores,Tambi" datatype="html">
+        <source> Como desarrolladores, tambien nos ocupamos de organizar y gestionar dichos servicios de una manera optima y eficiente, como tambien software de uso continui del cliente, adecuandonos a sus necesidades. </source>
+        <target> As developers, we also take care of organizing and managing these services in an optimal and efficient way, as well as software for continuous use by the client, adapting to their needs. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">236,238</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageSoporteTacnico" datatype="html">
+        <source> Soporte Técnico </source>
+        <target> Technical support </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">251,253</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageBrindamosANuestrosCliente" datatype="html">
+        <source> Brindamos a nuestros clientes soporte técnico ante cualquier requerimiento o contingencia. </source>
+        <target> We provide our clients with technical support for any requirement or contingency. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">255,257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageLoQueHacemos" datatype="html">
+        <source> Lo que hacemos </source>
+        <target> What we do </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">319,321</context>
+        </context-group>
+      </trans-unit>
+       <trans-unit id="porqueelegir" datatype="html">
+        <source> ¿Por que elegir Quantum? </source>
+        <target> Why choose Quantum? </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">323,325</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageQuantumTeAyudaAImplementa" datatype="html">
+        <source> Quantum te ayuda a implementar soluciones digitales innovadoras. </source>
+        <target> Quantum helps you implement innovative digital solutions. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">328,330</context>
+        </context-group>
+      </trans-unit>
+            <trans-unit id="experienciaenelmercado" datatype="html">
+        <source> Más de 10 años de experiencia en el mercado </source>
+        <target> More than 10 years of experience in the market </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">335</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tecnologiasinnovadoras" datatype="html">
+        <source> Tecnologias innovadoras de vanguardia </source>
+        <target> Innovative cutting-edge technologies </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">340</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="expertosentecnologias" datatype="html">
+        <source> Expertos en Tecnologías de Información y Comunicación </source>
+        <target> Experts in Information and Communication Technologies </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">345</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageTrabajaConNosotros" datatype="html">
+        <source> Trabaja con nosotros </source>
+        <target> Work with us </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">348,350</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepage100" datatype="html">
+        <source> 100 </source>
+        <target> 100 </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">371,373</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageClientesSatisfechos" datatype="html">
+        <source> Clientes Satisfechos </source>
+        <target> Satisfied customers </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">374,376</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepage200" datatype="html">
+        <source> 200 </source>
+        <target> 200 </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">385,387</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageProyectosCompletados" datatype="html">
+        <source> Proyectos Completados </source>
+        <target> Completed Projects </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">388,390</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepage500" datatype="html">
+        <source> 500 </source>
+        <target> 500 </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">399,401</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageDesarrollosImplementadas" datatype="html">
+        <source> Desarrollos implementadas </source>
+        <target> Implemented developments </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">402,404</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepage3000" datatype="html">
+        <source> 3000 </source>
+        <target> 3000 </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">413,415</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="homepageCapacitacionesRealizadas" datatype="html">
+        <source> Capacitaciones realizadas </source>
+        <target> Trainings carried out </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/homepage/homepage.component.html</context>
+          <context context-type="linenumber">416,418</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

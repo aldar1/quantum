@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="aboutus" datatype="html">
+        <source> Nosotros </source>
+        <target> Nós </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTitulo" datatype="html">
+        <source> Nosotros </source>
+        <target> Nós </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContenidoTitulo" datatype="html">
+        <source>Servicio Profesionales <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> de la Tecnologia de la Información y Comunicación </source>
+        <target>Serviços Profissionais <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> de Tecnologias de Informação e Comunicação</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">35,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContenidop1" datatype="html">
+        <source> Quantum es una empresa enfocada en el rubro de la TecnologÃ­a de la InformaciÃ³n y ComunicaciÃ³n (TICs), que ofrece servicios especializados y de consultorÃ­a de valor al cliente por mÃ¡s de 10 aÃ±os a nivel nacional, integrando soluciones de alta calidad tanto en el sector pÃºblico como privado. </source>
+        <target> A Quantum é uma empresa focada na área de Tecnologia da Informação e Comunicação (TICs), que oferece serviços especializados e consultoria de valor ao cliente há mais de 10 anos a nível nacional, integrando soluções de alta qualidade tanto no setor público quanto no privado. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">41,43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContenidop2" datatype="html">
+        <source> Somos una empresa que ofrece soluciones innovadoras estableciendo alianzas estratÃ©gicas duraderas potenciando el crecimiento de nuestros clientes acorde a la evoluciÃ³n tecnolÃ³gica emergente a nivel mundial. </source>
+        <target> Somos uma empresa que oferece soluções inovadoras estabelecendo alianças estratégicas duradouras, promovendo o crescimento de nossos clientes de acordo com a evolução tecnológica emergente em todo o mundo. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContenidoLi1" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;far fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Más 10 años de experiencia</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;far fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Mais de 10 anos de experiência</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">49,52</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContenidoLi2" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;far fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Atención personalizada</source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;far fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>Atenção personalizada</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">53,57</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusContactanos" datatype="html">
+        <source> ContÃ¡ctanos </source>
+        <target> Contate-Nos </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">59,61</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusMisionVision" datatype="html">
+        <source> Nuestra misiÃ³n y visiÃ³n </source>
+        <target> Nossa missão e visão </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">73,75</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValores" datatype="html">
+        <source> Nuestros valores </source>
+        <target> Nossos valores </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">76,78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusHistoria" datatype="html">
+        <source> Historia de Quantum </source>
+        <target> História da Quantum </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">79,81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusMision" datatype="html">
+        <source> Misión </source>
+        <target> Missão </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">94,96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusMisionp" datatype="html">
+        <source> Somos una empresa que ofrece soluciones innovadoras estableciendo alianzas estratÃ©gicas duraderas potenciando el crecimiento de nuestros clientes acorde a la evoluciÃ³n tecnolÃ³gica emergente a nivel mundial. </source>
+        <target> Somos uma empresa que oferece soluções inovadoras estabelecendo alianças estratégicas duradouras, promovendo o crescimento de nossos clientes de acordo com a evolução tecnológica emergente em todo o mundo. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">97,101</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusVision" datatype="html">
+        <source> Vision </source>
+        <target> Visão </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">103,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusVisionp" datatype="html">
+        <source> Apoyar a nuestros clientes en la provisiÃ³n de soluciones tecnolÃ³gicas vanguardistas que generen de valor para sus organizaciones logrando su credibilidad y confianza. </source>
+        <target> Apoiar nossos clientes na oferta de soluções tecnológicas de ponta que gerem valor para suas organizações, conquistando sua credibilidade e confiança. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">106,109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusNuestrosValores" datatype="html">
+        <source> Nuestros valores </source>
+        <target> Nossos valores </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">120,122</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi1" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Compromiso con el éxito de nuestros clientes </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Compromisso com o sucesso de nossos clientes </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">124,128</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi2" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Ética incuestionable </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Ética inquestionável </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">129,133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi3" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Responsabilidad </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Responsabilidade </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">134,138</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi4" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Flexibilidad y agilidad con un propósito </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Flexibilidade e agilidade com propósito </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">139,143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi5" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Sentido de equipo </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Senso de equipe</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">144,148</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusValoresLi6" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Respeto por el individuo y por la diversidad </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Respeito ao indivíduo e à diversidade </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">149,153</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusNuestraHistoria" datatype="html">
+        <source> Nuestra Historia </source>
+        <target> Nossa história </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">175,177</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusNuestraHistoriaP" datatype="html">
+        <source> CommIT es una empresa enfocada en el rubro de la TecnologÃ­a de la InformaciÃ³n y ComunicaciÃ³n (TICs), que ofrece servicios especializados y de consultorÃ­a de valor al cliente por mÃ¡s de 10 aÃ±os a nivel nacional, integrando soluciones de alta calidad tanto en el sector pÃºblico como privado. </source>
+        <target> A CommIT é uma empresa focada na área de Tecnologia da Informação e Comunicação (TICs), que oferece serviços especializados e consultoria de valor ao cliente há mais de 10 anos a nível nacional, integrando soluções de alta qualidade tanto no setor público quanto no privado. </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">178,182</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusHistoriaLi1" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Más de 10 años de experiencia en el mercado <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Mais de 10 anos de experiência no mercado <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">184,189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusHistoriaLi2" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Tecnologias innovadoras de vanguardia <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Tecnologias inovadoras de vanguarda <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">190,195</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusHistoriaLi3" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Expertos en Tecnologías de Información y Comunicación </source>
+        <target><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fas fa-check&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Peritos em Tecnologias de Informação e Comunicação </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">196,200</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider1" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Primero nos ignoran, luego se nos burlan, luego nos combaten, luego vencemos. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Primeiro ignoram-nos, depois gozam connosco, depois lutam connosco, depois ganhamos. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">247,257</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosMahatmaGandhi" datatype="html">
+        <source> Mahatma Gandhi </source>
+        <target> Mahatma Gandhi </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">260,262</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider2" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> El éxito no es el final, el fracaso no es fatal: es el coraje para continuar lo que cuenta. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> O sucesso não é o fim, o fracasso não é fatal: o que conta é a coragem de continuar. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">272,282</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosWinstonChurchill" datatype="html">
+        <source> Winston Churchill </source>
+        <target> Winston Churchill </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">285,287</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider3" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Los más grandes científicos son también artistas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Os maiores cientistas também são artistas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">297,307</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinstein" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">310,312</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider4" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> No son los más fuertes o los más inteligentes quienes sobrevivirán sino aquellos que manejen mejor el cambio. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Não é o mais forte ou o mais inteligente que sobreviverá, mas sim aqueles que melhor gerem a mudança. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">322,332</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesDarwin" datatype="html">
+        <source> Charles Darwin </source>
+        <target> Charles Darwin </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">335,337</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider5" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Un problema bien definido es un problema medio resuelto. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Um problema bem definido é um problema meio resolvido. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">347,357</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesKettering" datatype="html">
+        <source> Charles Kettering </source>
+        <target> Charles Kettering </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">360,362</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider6" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Una fortuna de información crea una pobreza de atención. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Uma fortuna de informação cria uma pobreza de atenção. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">372,382</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosHerbertSimon" datatype="html">
+        <source> Herbert Simon </source>
+        <target> Herbert Simon </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">385,387</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider7" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Lo difícil es averiguar qué preguntas hacer, pero una vez que lo sabes, el resto es realmente fácil <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A parte mais difícil é descobrir que perguntas fazer, mas quando se sabe, o resto é realmente fácil. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">397,407</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosElonMusk" datatype="html">
+        <source> Elon Musk </source>
+        <target> Elon Musk </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">410,412</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider8" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Si quieres viajar por el mundo y que te inviten a hablar en numerosos lugares, escribe un sistema operativo basado en Unix <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Se quiser viajar pelo mundo e ser convidado a falar em numerosos lugares, escreva um sistema operativo baseado no Unix. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">3422,432</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvalds" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">435,437</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider9" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> El software libre es como el sexo, es mejor cuando es gratis <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> O software livre é como o sexo, é melhor quando é livre. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">447,457</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsD" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">460,462</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider10" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Si piensas que tus usuarios son idiotas, sólo los idiotas lo usarán. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Se pensa que os seus utilizadores são idiotas, só os idiotas o utilizarão. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">472,482</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsA" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">485,487</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider11" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Si la FSF quiere llamarlo GNU/Linux, ¿por qué debería preocuparme?. Después de todo, no tiene mucho más sentido que el llamarlo como un tipo de sombrero. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Se a FSF quer chamar-lhe GNU/Linux, porque é que eu deveria importar-me? Afinal de contas, não faz muito mais sentido do que chamar-lhe uma espécie de chapéu. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">497,507</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsO" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">510,512</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider12" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A la vista de suficientes ojos, todos los errores resultan evidentes <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A olhos bastantes, todos os erros são óbvios. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">522,532</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsH" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">535,537</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider13" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Hablar es barato. Muéstrame tu código. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A conversa é barata. Mostre-me o seu código. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">547,557</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsE" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">560,562</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider14" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Si Microsoft alguna vez hace aplicaciones para Linux significa que gané. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Se a Microsoft alguma vez fizer aplicações Linux, isso significa que ganhei. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">572,582</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosLinusTorvaldsAJ" datatype="html">
+        <source> Linus Torvalds </source>
+        <target> Linus Torvalds </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">585,587</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider15" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Si te levantas en la mañana y piensas que el futuro va a ser mejor, es un buen día. De otra manera, no lo será <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Se acordar de manhã e pensar que o futuro vai ser melhor, é um bom dia. Caso contrário, não será. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">597,607</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosElonMuskC" datatype="html">
+        <source> Elon Musk </source>
+        <target> Elon Musk </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">610,612</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider16" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Muchas veces la gente no sabe lo que quiere hasta que se lo enseñas <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Muitas vezes as pessoas não sabem o que querem até que lhes mostremos o que querem. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">622,632</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobs" datatype="html">
+        <source> Steve Jobs </source>
+        <target> Steve Jobs </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">635,637</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider17" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> No son los más fuertes o los más inteligentes quienes sobrevivirán sino aquellos que manejen mejor el cambio. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Não é o mais forte ou o mais inteligente que sobreviverá, mas sim aqueles que melhor gerem a mudança. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">647,657</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosCharlesDarwinQ" datatype="html">
+        <source> Charles Darwin </source>
+        <target> Charles Darwin </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">660,662</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider18" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> La innovación es lo que distingue a un líder de un seguidor <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A inovação é o que distingue um líder de um seguidor. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">672,682</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsM" datatype="html">
+        <source> Steve Jobs </source>
+        <target> Steve Jobs </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">685,687</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider19" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Cuando se innova, se corre el riesgo de cometer errores. Es mejor admitirlo rápidamente y continuar con otra innovación <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Quando se inova, corre-se o risco de cometer erros. É melhor admiti-lo rapidamente e seguir em frente com outra inovação. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">697,707</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsE" datatype="html">
+        <source> Steve Jobs </source>
+        <target> Steve Jobs </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">710,712</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider20" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> No hemos sido los primeros, pero seremos los mejores. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Não fomos os primeiros, mas vamos ser os melhores. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">722,732</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosSteveJobsB" datatype="html">
+        <source> Steve Jobs </source>
+        <target> Steve Jobs </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">735,737</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider21" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Dos cosas son infinitas: la estupidez humana y el universo; y no estoy seguro de lo segundo. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Duas coisas são infinitas: a estupidez humana e o universo; e não tenho a certeza sobre esta última. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">747,757</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinA" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">760,762</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider22" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Lo importante es no dejar de hacerse preguntas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> O importante é não deixar de fazer perguntas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">772,782</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinF" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">785,787</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider23" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Nunca pienso en el futuro. Llega demasiado pronto. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Nunca penso no futuro. Vem demasiado cedo. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">797,807</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinN" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">810,812</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider24" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> La mente es como un paracaídas… Solo funciona si la tenemos abierta. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A mente é como um pára-quedas... Só funciona se a mantivermos aberta. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">822,832</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinO" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">835,837</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider25" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Todos nós somos muito ignorantes. É que não somos todos ignorantes das mesmas coisas. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">847,857</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinNG" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">860,862</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider26" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Toda la ciencia no es más que un refinamiento del pensamiento cotidiano. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> Toda a ciência não é mais do que um refinamento do pensamento quotidiano. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">872,882</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinI" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">885,887</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aboutusTestSlider27" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> La educación es lo que queda una vez que olvidamos todo lo que aprendimos en la escuela. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></source>
+        <target><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span class=&quot;quote-top&quot;&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i class=&quot;fal fa-quote-left&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/> A educação é o que resta quando esquecemos tudo o que aprendemos na escola. <x id="START_TAG_SPAN_1" ctype="x-span_1" equiv-text="&lt;span class=&quot;quote-bottom&quot;&gt;"/><x id="START_ITALIC_TEXT_1" equiv-text="&lt;i class=&quot;fal fa-quote-right&quot;&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/><x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/></target>
+          <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">897,907</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="nosotrosAlbertEinsteinB" datatype="html">
+        <source> Albert Einstein </source>
+        <target> Albert Einstein </target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/aboutus/aboutus.component.html</context>
+          <context context-type="linenumber">910,912</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

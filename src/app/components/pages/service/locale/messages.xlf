@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+     <trans-unit id="serviceServicios" datatype="html">
+        <source> Servicios </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">7,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceNuestroProceso" datatype="html">
+        <source> Nuestro proceso </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">29,31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceAca3moTrabajamos?" datatype="html">
+        <source> ¿Cómo trabajamos? </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">32,34</context>
+        </context-group>
+      </trans-unit>
+         <trans-unit id="serviceQuantumOfrece" datatype="html">
+        <source> Quantum SRL ofrece una variedad de servicios con el objetivo de que nuestros clientes queden satisfechos manteniendo los valores escenciales del negocio </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">36,38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service01" datatype="html">
+        <source> 01 </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">44,46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceTomemosUnCafa" datatype="html">
+        <source> Tomemos un café </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">49,51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceTenemosUnaReunia3nParaEnc" datatype="html">
+        <source> Tenemos una reunión para encontrar la solución adecuada a tu proyecto. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">52,54</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service02" datatype="html">
+        <source> 02 </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">61,63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceContanosTuSituacia3n" datatype="html">
+        <source> Contános tu situación </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">66,68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceAnalizamosTuSituacia3nPar" datatype="html">
+        <source> Analizámos tu situación para recomendarte las mejores soluciones </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">69,71</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service03" datatype="html">
+        <source> 03 </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">78,80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceManosALaObra" datatype="html">
+        <source> Manos a la obra </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">83,85</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceTrabajamosEnTuSolucia3nPe" datatype="html">
+        <source> Trabajamos en tu solución perfecta innovando con tecnología de vanguardia </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">86,88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="service04" datatype="html">
+        <source> 04 </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">95,97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceAconsigueTusMetas!" datatype="html">
+        <source> ¡Consigue tus metas! </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">100,102</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceImplementamosTuSolucia3n," datatype="html">
+        <source> Implementamos tu solución, capacitamos a tu personal y tu solución está lista para optimizar tu empresa </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">103,105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceNuestrosServicios" datatype="html">
+        <source> Nuestros Servicios </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">125,127</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="tenemosMejoresServicios" datatype="html">
+        <source>Tenemos los mejores servicios <x id="LINE_BREAK" ctype="lb" equiv-text="&lt;br&gt;"/> para innovar tu empresa</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">128,132</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceSoporteTacnico" datatype="html">
+        <source> Soporte Técnico </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">141,143</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceBrindamosANuestrosCliente" datatype="html">
+        <source> Brindamos a nuestros clientes soporte técnico ante cualquier requerimiento o contingencia. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">145,147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceDesarrolloDeSoftware" datatype="html">
+        <source> Desarrollo de Software </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">160,162</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceDesarrollamosSoftwareAPed" datatype="html">
+        <source> Desarrollamos Software a pedido del cliente, con una amplia gamma de conocimientos por parte del backend, como ser microservicios con uso de Java </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">164,166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceCapacitacia3n" datatype="html">
+        <source> Capacitación </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">179,181</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="serviceBrindamosANuestrosClienteQ" datatype="html">
+        <source> Brindamos a nuestros clientes capacitación ante cualquier requerimiento o contingencia. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/pages/service/service.component.html</context>
+          <context context-type="linenumber">183,185</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

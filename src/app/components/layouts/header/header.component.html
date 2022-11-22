@@ -1,0 +1,108 @@
+<header class="">
+  <!-- Header Menu  -->
+  <div class="header-nav">
+    <div class="container-fluid container-1600">
+      <div class="nav-container">
+        <!-- Logo -->
+        <div class="site-logo">
+          <a routerLink='/'><img src="assets/img/logo-quantum/logo-quantum-es.png" i18n-src="@@headerImgLogo" height="100" width="200" alt="Logo"></a>
+        </div>
+
+        <!-- Menu -->
+        <div class="nav-menu d-lg-flex align-items-center">
+
+          <!-- Navbar Cerrar Icono -->
+          <div class="navbar-close">
+            <div class="cross-wrap"><span></span><span></span></div>
+          </div>
+
+          <!-- Menu Items -->
+          <div class="menu-items">
+            <ul>
+              <li >
+                <a routerLink='/' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" i18n="@@headerInicio">Inicio</a>
+
+              </li>
+              <li>
+                <a routerLink='/soluciones' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" i18n="@@headerSoluciones">Soluciones</a>
+              </li>
+              <li >
+                <a routerLink='/servicios' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" i18n="@@headerServicios">Servicios</a>
+              </li>
+
+              <li>
+                <a routerLink='/clientes' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" i18n="@@headerClientes">Clientes</a>
+              </li>
+
+              <li>
+                <a routerLink='/nosotros' routerLinkActive="active" [routerLinkActiveOptions]="{exact: true}" i18n="@@headerNosotros">Nosotros</a>
+              </li>
+
+              <!--Dropdown Idiomas-->
+              <li>
+                <div class="dropdown toggleGroup-i18n">
+                  <button class="main-btn main-btn-3 dropdown-button-i18n" type="button" data-toggle="dropdown"
+                          i18n="@@headerLanguage">
+                    Idioma
+                  </button>
+                  <ul class="dropdown-menu dropdown-i18n">
+                    <li class="list-language">
+                      <a href="../es" class="icon-i18n" [routerLinkActiveOptions]="{exact: true}"
+                         routerLinkActive="active">
+                        <img src="assets/img/logo-i18n/logo-es.png" class="img-i18n"/>
+                        <span i18n="@@headerSpanish">Español</span>
+                      </a>
+                    </li>
+                    <li class="list-language">
+                      <a href="../en" class="icon-i18n" [routerLinkActiveOptions]="{exact: true}"
+                         routerLinkActive="active">
+                        <img src="assets/img/logo-i18n/logo-en.png" class="img-i18n"/>
+                        <span i18n="@@headerEnglish">Ingles</span>
+                      </a>
+                    </li>
+                    <li class="list-language">
+                      <a href="../pt" class="icon-i18n" [routerLinkActiveOptions]="{exact: true}"
+                         routerLinkActive="active">
+                        <img src="assets/img/logo-i18n/logo-pt.png" class="img-i18n"/>
+                        <span i18n="@@headerPortuguese">Portugués</span>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <span style="text-align: center;display: block;" class="d-md-none">
+                <a style="margin: 10px" class="main-btn main-btn-2" routerLink='/contactanos' routerLinkActive="active" i18n="@@headerContactanos">Contáctanos</a>
+                <a style="margin: 20px;"  (click)="toggleDarkTheme()" class="icon-container">
+                  <i [class]="iconThemeMode"></i>
+                </a>
+              </span>
+            </ul>
+          </div>
+          <!-- Pushed Items -->
+          <div class="nav-pushed-item"></div>
+        </div>
+
+        <!-- Navbar Extra  -->
+        <div class="navbar-extra d-lg-block d-flex align-items-center">
+          <!-- Nav boton -->
+          <!-- Se incorpora el ícono de luna y un switch para el modo oscuro y a su lado derecho el bóton contactános-->
+          <div class="navbar-btn nav-push-item">
+            <span class="d-none d-md-block">
+              <a style="margin: 10px" [class]="iconThemeMode"></a>
+              <label class="switch">
+                <input type="checkbox" (click)="toggleDarkTheme()" [checked]="isDarkTheme">
+                <span class="slider round"></span>
+              </label>
+              <a style="margin: 10px" class="main-btn main-btn-3" routerLink='/contactanos' routerLinkActive="active" i18n="@@headerContactanosT">Contáctanos</a>
+            </span>
+          </div>
+
+          <!-- Navbar Toggler -->
+          <div class="navbar-toggler">
+            <span></span><span></span><span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
